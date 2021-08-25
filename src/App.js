@@ -1,7 +1,7 @@
 import './App.css';
 import React, { Component } from 'react';
-import extra from './ExternalModules'
-import { QuoteBox } from './QuoteBox'
+import extra from './fakeData/ExternalModules'
+import { QuoteBox } from './components/QuoteBox'
 
 
 export default class App extends Component {

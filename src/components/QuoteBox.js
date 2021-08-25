@@ -1,6 +1,6 @@
 import React from "react";
 import { Anchors } from "./Anchors";
-import "./App.css";
+import "../App.css";
 import { Button } from "./Button";
 import { QuoteText } from "./QuoteText";
 

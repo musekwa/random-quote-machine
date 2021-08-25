@@ -5,7 +5,7 @@ export function Anchors(props) {
 
   return(
       <div id="tweeter">
-        <a className={`text-${props.bg}`} id="tweet-quote"  target="_blank"
+        <a className={`text-${props.bg}`} id="tweet-quote"  target="_blank" rel="noreferrer"
             href="https://twitter.com/intent/tweet">
         <FaTwitter />
         </a>
